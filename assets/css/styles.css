@@ -1,0 +1,29 @@
+*{
+    padding: 2px;
+    margin: 0;
+    background-color: lightslategrey;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.item1{
+    color: white;
+    font-size: 25px;
+}
+
+.item2{
+    color: white;
+    font-size: 25px;
+}
+
+.item3{
+    color: white;
+    font-size: 25px;
+}
+
+.item4{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    font-size: 40px;
+    color: blue;
+}
